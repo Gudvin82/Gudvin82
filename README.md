@@ -19,6 +19,10 @@ CRM, 1C, BI, Telegram и веб-продуктов.
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-CI%2FCD-2088FF?style=flat&logo=githubactions&logoColor=white)](https://github.com/features/actions)
 [![AI Agents](https://img.shields.io/badge/AI%20Agents-Codex%20%7C%20Claude%20%7C%20Cursor-6F42C1?style=flat)](https://github.com/Gudvin82/vibe-coding-protocols)
 
+[![SEO/GEO AI CI](https://github.com/Gudvin82/seo-geo-ai-roadmap/actions/workflows/python-tests.yml/badge.svg)](https://github.com/Gudvin82/seo-geo-ai-roadmap/actions/workflows/python-tests.yml)
+[![SEO/GEO AI License](https://img.shields.io/github/license/Gudvin82/seo-geo-ai-roadmap?label=seo-geo-ai%20license)](https://github.com/Gudvin82/seo-geo-ai-roadmap/blob/main/LICENSE)
+[![VCP Workflow](https://github.com/Gudvin82/vibe-coding-protocols/actions/workflows/vibe-check.yml/badge.svg)](https://github.com/Gudvin82/vibe-coding-protocols/actions/workflows/vibe-check.yml)
+
 ---
 
 ## Чем я полезен
@@ -49,12 +53,13 @@ CRM, 1C, BI, Telegram и веб-продуктов.
 
 ## Что нового
 
-- **June 2026:** запущен публичный профиль GitHub как портфолио applied AI
-  systems.
-- **June 2026:** усилены public surfaces для `SEO + GEO + AI Roadmap` и
-  `Vibe Coding Protocols`.
-- **June 2026:** опубликованы и оформлены showcase-репозитории для audit,
-  CRM/AI widgets, BI и маркетинговых систем.
+- **Current focus:** applied AI systems for business automation, SEO/GEO
+  visibility, audit tooling and AI-assisted development governance.
+- **Flagship work:** `SEO + GEO + AI Roadmap` and `Vibe Coding Protocols` are
+  the main public proof surfaces.
+- **Public showcases:** legal/security audit APIs, CRM-ready AI widgets, BI
+  dashboards and marketing automation systems are packaged as safe GitHub
+  repositories for external review.
 
 ## Мой рабочий стек
 
@@ -112,9 +117,16 @@ rather than demo-only prototypes.
 
 My work combines AI agents, SEO/GEO/AI discoverability, CRM/1C/BI integrations,
 legal and technical audit automation, Telegram bots, operational dashboards and
-public product showcases. I care about systems that can be inspected, reused
-and improved: clear architecture, documented boundaries, API surfaces, CLI
-checks, CI/CD gates, reports, cases and evidence trails.
+public product showcases. I work at the point where product thinking,
+engineering discipline and business operations meet: the result should be
+useful for a founder, understandable for a team and inspectable by another
+engineer.
+
+I care about systems that can be audited, reused and improved: clear
+architecture, documented boundaries, API surfaces, CLI checks, CI/CD gates,
+reports, cases and evidence trails. The goal is not to make AI look magical;
+the goal is to make it operational, measurable and safe enough to use in real
+workflows.
 
 This GitHub profile is a portfolio of practical AI/business systems:
 
@@ -127,3 +139,7 @@ This GitHub profile is a portfolio of practical AI/business systems:
 If you are evaluating my work, start with the pinned/featured projects above:
 they show how I think about product architecture, AI-assisted development,
 business automation and public proof surfaces.
+
+I am especially interested in projects where AI has to connect with existing
+business systems: CRM, 1C, BI, support teams, marketing operations, legal or
+security checks, Telegram workflows and decision dashboards.
